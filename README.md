@@ -1,2 +1,2 @@
-# Jogo-Super-Mario-WEB
-Proposta de desenvolver um jogo do super Mario na versão web utilizando principalmente recursos de JS.
+# Super Mario Web Game
+A proposta principal do projeto é desenvolver um game do Super Mario, na versão web utilizando recursos de JS.
