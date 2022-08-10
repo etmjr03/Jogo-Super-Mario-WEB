@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Quanta nostalgia esse jogo trás, não é mesmo?! <br>Portanto decidi criar um mini jogo do Super Mario na versão web com a proposta de realizar updates gradativamente, sejam de fases, funções e quem sabe poder trocar de personagem para o Luigi?</p>
+<p align="left">Quanta nostalgia esse jogo trás, não é mesmo?! <br>Portanto decidi criar um mini jogo do Super Mario na versão web com a proposta de realizar updates gradativamente, sejam de fases, funções e quem sabe poder trocar de personagem para o Luigi?</p>
 
 ###
 
