@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Linguagens utilizadas</p>
+<p align="left">Linguagens utilizadas para o mini jogo do Super Mario</p>
 
 ###
 
