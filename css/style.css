@@ -10,6 +10,7 @@
     border-bottom: 15px solid rgb(7, 158, 45);
     position: relative;
     overflow: hidden;
+    background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
 .pipe {
@@ -23,6 +24,12 @@
     width: 150px;
     position: absolute;
     bottom: 0;
+}
+
+.nuvem {
+    width: 550px;
+    position: absolute;
+    animation: nuvem-animation 15s infinite linear;
 }
 
 .jump {
@@ -52,5 +59,13 @@
         bottom: 100 px;
     }  100% {
         bottom: 0;
+    }
+}
+
+@keyframes nuvem-animation {
+    from {
+        right: -500px;
+    } to {
+        right: 100%;
     }
 }
