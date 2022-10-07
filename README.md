@@ -21,3 +21,7 @@
 <img align="left" height="300" src="https://th.bing.com/th/id/R.47692f66878161bf2e03f05712ae5a75?rik=IcFJgNcSB0ULvw&riu=http%3a%2f%2fmariomayhem.com%2fbowsers_blog%2fwp-content%2fuploads%2f2013%2f07%2ftumblr_mlifr2nnl61r3smugo1_500.gif&ehk=kXwTe8apW13NA3shwPD0XxBwaqwN%2bSs30l92alB2tmM%3d&risl=&pid=ImgRaw&r=0"  />
 
 ###
+
+<div align="left">
+Deploy do projeto: https://etmjr03.github.io/Jogo-Super-Mario-WEB/
+</div>
